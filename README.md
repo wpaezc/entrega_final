@@ -1,4 +1,4 @@
-# Pruebas E2E con Playwright y Kraken
+# Entrega final
 ## 1. Integrantes
 |Nombres|Email|
 |-------|------|
