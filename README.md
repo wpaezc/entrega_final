@@ -29,4 +29,4 @@ En el tablero _Incidencias Ghost 3.42.5_ del siguiente [link](https://trello.com
 
 ## 6. Video de presentación y resumen
 
-Se ha cerado un video donde se describe la estrategia de pruebas, se discuten pros y contras de las herramientas, se identifican limitaciones de la estrategia y se mencionan los resultados de las pruebas exploratorias. Este puede encontrarse en: (https://youtu.be/3JXunqVOO8I)
+Se ha cerado un video donde se describe la estrategia de pruebas, se discuten pros y contras de las herramientas, se identifican limitaciones de la estrategia y se mencionan los resultados de las pruebas exploratorias. Este puede encontrarse en: https://youtu.be/3JXunqVOO8I
