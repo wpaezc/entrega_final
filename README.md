@@ -25,3 +25,8 @@ En cada respositorio estan las instrucciones para correr las pruebas
 ## 5. Incidencias reportadas
 
 En el tablero _Incidencias Ghost 3.42.5_ del siguiente [link](https://trello.com/b/e5H7xPH5/incidencias-ghost-3425)
+
+
+## 6. Video de presentación y resumen
+
+Se ha cerado un video donde se describe la estrategia de pruebas, se discuten pros y contras de las herramientas, se identifican limitaciones de la estrategia y se mencionan los resultados de las pruebas exploratorias [link] (https://youtu.be/3JXunqVOO8I)
